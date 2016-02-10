@@ -1,6 +1,6 @@
 {
   "name": "gulp-md5-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "md5 the assets file and change the names in the quoted html, the base path can be set",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,11 @@
     "gulp",
     "gulp-md5-plus"
   ],
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "through2": "^0.4.1",
+    "glob" : "^4.0.6"
+  },
   "author": "Lucas",
   "email" : "xunuoi@163.com",
   "license": "MIT"
