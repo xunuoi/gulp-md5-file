@@ -1,10 +1,14 @@
 {
   "name": "gulp-md5-file",
-  "version": "1.0.0",
-  "description": "md5 the static file and change the names in the quoted html, able to set base path",
+  "version": "1.0.1",
+  "description": "md5 the assets file and change the names in the quoted html, the base path can be set",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xunuoi/gulp-md5-file.git"
   },
   "keywords": [
     "gulp-md5",
@@ -12,5 +16,6 @@
     "gulp-md5-plus"
   ],
   "author": "Lucas",
+  "email" : "xunuoi@163.com",
   "license": "MIT"
 }
