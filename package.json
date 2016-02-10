@@ -1,0 +1,16 @@
+{
+  "name": "gulp-md5-file",
+  "version": "1.0.0",
+  "description": "md5 the static file and change the names in the quoted html, able to set base path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp-md5",
+    "gulp",
+    "gulp-md5-plus"
+  ],
+  "author": "Lucas",
+  "license": "MIT"
+}
